@@ -1,0 +1,10 @@
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\bin\Debug\Arduino.exe.config
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\bin\Debug\Arduino.exe
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\bin\Debug\Arduino.pdb
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\obj\Debug\Arduino.csprojAssemblyReference.cache
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\obj\Debug\Arduino.Form1.resources
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\obj\Debug\Arduino.exe
+D:\Asus Gu501gm\Documents\Source\Arduino\Arduino\obj\Debug\Arduino.pdb
